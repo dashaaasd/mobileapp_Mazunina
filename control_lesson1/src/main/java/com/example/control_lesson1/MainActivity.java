@@ -1,5 +1,6 @@
 package com.example.control_lesson1;
 
+
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
