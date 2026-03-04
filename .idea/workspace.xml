@@ -5,57 +5,57 @@
       <config />
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/app/activitylifecycle/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/activitylifecycle/src/main/res/layout/activity_second.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/layout/activity_second.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/dialog/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/dialog/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/intentfilter/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/intentfilter/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/multiactivity/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/multiactivity/src/main/res/layout/activity_second.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/activity_second.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/multiactivity/src/main/res/layout/content_second.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/content_second.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/notificationapp/src/main/res/drawable/ic_notification.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/notificationapp/src/main/res/drawable/ic_notification.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/notificationapp/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/notificationapp/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/app/toastapp/src/main/res/layout/activity_main.xml">
+      <layout url="file://$PROJECT_DIR$/lesson2/toastapp/src/main/res/layout/activity_main.xml">
         <config>
           <theme>@style/Theme.Lesson2</theme>
         </config>
@@ -67,7 +67,221 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e781d95-fd98-411f-a119-187a49d24727" name="Changes" comment="Add lesson2">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/androidTest/java/com/example/activitylifecycle/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/androidTest/java/com/example/activitylifecycle/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/java/com/example/activitylifecycle/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/java/com/example/activitylifecycle/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/java/com/example/activitylifecycle/SecondActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/java/com/example/activitylifecycle/SecondActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/layout/activity_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/activitylifecycle/src/test/java/com/example/activitylifecycle/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/activitylifecycle/src/test/java/com/example/activitylifecycle/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/androidTest/java/com/example/dialog/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/androidTest/java/com/example/dialog/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/java/com/example/dialog/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/java/com/example/dialog/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/java/com/example/dialog/MyDateDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/java/com/example/dialog/MyDateDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/java/com/example/dialog/MyDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/java/com/example/dialog/MyDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/java/com/example/dialog/MyProgressDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/java/com/example/dialog/MyProgressDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/java/com/example/dialog/MyTimeDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/java/com/example/dialog/MyTimeDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dialog/src/test/java/com/example/dialog/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/dialog/src/test/java/com/example/dialog/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/androidTest/java/com/example/intentfilter/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/androidTest/java/com/example/intentfilter/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/java/com/example/intentfilter/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/java/com/example/intentfilter/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/intentfilter/src/test/java/com/example/intentfilter/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/intentfilter/src/test/java/com/example/intentfilter/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/androidTest/java/com/example/multiactivity/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/androidTest/java/com/example/multiactivity/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/java/com/example/multiactivity/FirstFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/java/com/example/multiactivity/FirstFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/java/com/example/multiactivity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/java/com/example/multiactivity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/java/com/example/multiactivity/SecondActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/java/com/example/multiactivity/SecondActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/java/com/example/multiactivity/SecondFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/java/com/example/multiactivity/SecondFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/layout/activity_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/layout/content_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/content_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/layout/fragment_first.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/layout/fragment_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values-land/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values-v23/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values-v23/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values-w600dp/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/multiactivity/src/test/java/com/example/multiactivity/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/multiactivity/src/test/java/com/example/multiactivity/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/androidTest/java/com/example/notificationapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/androidTest/java/com/example/notificationapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/java/com/example/notificationapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/java/com/example/notificationapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/drawable/ic_notification.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/drawable/ic_notification.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/notificationapp/src/test/java/com/example/notificationapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/notificationapp/src/test/java/com/example/notificationapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/lesson2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/androidTest/java/com/example/lesson2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/lesson2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/java/com/example/lesson2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/lesson2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/src/test/java/com/example/lesson2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/androidTest/java/com/example/toastapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/androidTest/java/com/example/toastapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/java/com/example/toastapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/java/com/example/toastapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/toastapp/src/test/java/com/example/toastapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/toastapp/src/test/java/com/example/toastapp/ExampleUnitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +384,7 @@
   </component>
   <component name="RunManager" selected="Android App.app.dialog">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="lesson2.app" />
+      <module name="lesson2.lesson2" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -690,7 +904,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772641919571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add lesson2">
+      <option name="closed" value="true" />
+      <created>1772641948927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772641948927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add lesson2">
+      <option name="closed" value="true" />
+      <created>1772641957438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772641957438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
