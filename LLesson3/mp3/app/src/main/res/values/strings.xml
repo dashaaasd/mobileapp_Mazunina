@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MireaProjec3</string>
+    <string name="industry_title">Моя отрасль: Машинное обучение</string>
+    <string name="facts_title">Интересные факты:</string>
+    <string name="fact_1">• Машинное обучение (ML) — это подраздел искусственного интеллекта, где компьютеры учатся на данных, не получая жёстких правил от человека.</string>
+    <string name="fact_2">• Вместо того чтобы программист писал, как именно реагировать на каждую ситуацию, алгоритм сам находит закономерности и учится принимать решения.</string>
+</resources>
