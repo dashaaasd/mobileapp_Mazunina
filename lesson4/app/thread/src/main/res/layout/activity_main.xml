@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Заголовок -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Расчет среднего количества пар в день"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#6200EE"
+            android:gravity="center"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Информация о потоке -->
+
+        <!-- Поле для ввода общего количества пар -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Общее количество пар за месяц"
+            style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
+            android:layout_marginBottom="16dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editTextTotalPairs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:text="48" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Поле для ввода количества учебных дней -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Количество учебных дней в месяце"
+            style="@style/Widget.Material3.TextInputLayout.OutlinedBox"
+            android:layout_marginBottom="24dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/editTextStudyDays"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:text="20" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Кнопка для запуска расчета -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonCalculate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Рассчитать среднее количество пар в день"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Кнопка для демонстрации ANR -->
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/buttonBlockUI"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Заблокировать UI (демонстрация ANR)"
+            android:backgroundTint="#D32F2F"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Результат -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Результат:"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/textViewResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:padding="16dp"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:gravity="center"
+            android:layout_marginTop="8dp" />
+
+        <!-- Информация о потоках -->
+
+    </LinearLayout>
+</ScrollView>
